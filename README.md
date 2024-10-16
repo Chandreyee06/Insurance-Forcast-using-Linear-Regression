@@ -1,1 +1,1 @@
-To analyse the customer charges for an insurance company based on age, BMI, sex so that the person's company can decide how much they charge people correctly.
+This project aims to analyze and predict insurance charges based on customer attributes such as age, BMI, sex, number of children, smoking status, and region. By leveraging a dataset of insurance records, we provide insights that can help an insurance company determine appropriate charges for their customers.
